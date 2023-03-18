@@ -2,13 +2,13 @@
 	"starter": {
 		"id": "starter",
 		"name": "Starter",
-		"snipkode": 4,
+		"@snipkode/framework": 4,
 		"description": "Starter project without any special setup"
 	},
 	"starter-todo": {
 		"id": "starter-todo",
 		"name": "Starter Todo",
-		"snipkode": 4,
+		"@snipkode/framework": 4,
 		"description": "Starter project todo API"
 	}
 }
