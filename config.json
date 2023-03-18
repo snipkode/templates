@@ -5,6 +5,12 @@
 		"total": 4,
 		"description": "Starter project without any special setup"
 	},
+	"starter-todo": {
+		"id": "starter-todo",
+		"name": "Starter Todo",
+		"total": 4,
+		"description": "Starter project todo API"
+	}
 	"typescript": {
 		"id": "starter-typescript",
 		"name": "Typescript",
